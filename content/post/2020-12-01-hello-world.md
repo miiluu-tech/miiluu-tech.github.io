@@ -10,7 +10,7 @@ categories: [ "福利" ]
 
 本铺开张了!!!
 
-![](https://miiluu.oss-cn-shanghai.aliyuncs.com/blog/littleplan/QRcode.png)
+<img src="https://miiluu.oss-cn-shanghai.aliyuncs.com/blog/littleplan/QRcode.png" width="50%" height="50%">
 
 关注本铺你可以领取到外卖红包优惠券。包括美团和饿了么两个平台，不能保证免单，但是减个几块十几块的不也很划算，而且每天都可以领取。后续也会继续追加其他红包优惠，更多详情可回复 “红包” 获取。
 
