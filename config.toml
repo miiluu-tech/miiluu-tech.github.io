@@ -22,7 +22,7 @@ home = ["HTML", "RSS"]
 
   # Sidebar settings
   sidebar_about_description = "分享一些福利、教程和资源。"
-  sidebar_avatar = "https://miiluu.oss-cn-shanghai.aliyuncs.com/little%20plan/QRcode.png"
+  sidebar_avatar = "https://miiluu.oss-cn-shanghai.aliyuncs.com/blog/littleplan/QRcode.png"
 
   featured_tags = false 
   featured_condition_size = 1 
