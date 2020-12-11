@@ -1,0 +1,61 @@
+baseurl = "https://carlislechan.gitlab.io"
+title = "Miiluu"
+theme = "hugo-theme-cleanwhite"
+languageCode = "en-us"
+defaultContentLanguage = "zh-cn"
+defaultContentLanguageInSubdir = true
+# Enable comments by entering your Disqus shortname
+googleAnalytics = ""
+preserveTaxonomyNames = true
+paginate = 1000 #frontpage pagination
+hasCJKLanguage = true
+
+[outputs]
+home = ["HTML", "RSS"]
+
+[params]
+  header_image = "https://tva1.sinaimg.cn/large/007Tv3Vmly1ggs3ogv2coj31hc0u047k.jpg"
+  SEOTitle = "Miiluu"
+  description = ""
+  keyword = "miiluu"
+  slogan = "如是"
+
+  # Sidebar settings
+  sidebar_about_description = "分享一些福利、教程和资源。"
+  sidebar_avatar = "https://miiluu.oss-cn-shanghai.aliyuncs.com/little%20plan/QRcode.png"
+
+  featured_tags = false 
+  featured_condition_size = 1 
+
+  # Baidu Analytics
+  ba_track_id = ""
+
+  #Enable wechat pay & alipay to allow readers send reward money if they like the articles 
+  reward = true 
+
+  friends = false
+  bookmarks = false
+  about_me = true
+
+  custom_css = ["css/reward.css", "css/copyright.css"]
+
+[params.cc]
+    name = "知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议"
+    link = "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+
+[params.valine]
+    enable = true
+    appId = 'SphIWGw0lCawKvgfk8HY7iHK-gzGzoHsz'
+    appKey = 'rliMurvX2kkHOYNw7HavS38T'
+    notify = false  # mail notifier , https://github.com/xCss/Valine/wiki
+    verify = false # Verification code
+    avatar = 'mm'
+    placeholder = '说点什么吧...'
+    visitor = true
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 2
+    startLevel = 1
+  [markup.highlight]
+    style = "dracula"
