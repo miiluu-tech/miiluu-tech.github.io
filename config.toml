@@ -49,7 +49,7 @@ home = ["HTML", "RSS"]
     appKey = 'rliMurvX2kkHOYNw7HavS38T'
     notify = false  # mail notifier , https://github.com/xCss/Valine/wiki
     verify = false # Verification code
-    avatar = 'mm'
+    avatar = 'retro'
     placeholder = '说点什么吧...'
     visitor = true
 

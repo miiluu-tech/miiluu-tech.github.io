@@ -1,11 +1,11 @@
 <!-- valine -->
 {{- if and (.Site.Params.valine.enable) (not (eq (.Param "showComments") false)) -}}
 <!-- id 将作为查询条件 -->
-<!-- <span id="{{ .RelPermalink }}" class="leancloud_visitors" data-flag-title="{{ .Title }}">
+<p></p>
+<span id="{{ .RelPermalink }}" class="leancloud_visitors" data-flag-title="{{ .Title }}" style="display: none">
     <span class="post-meta-item-text">文章阅读量 </span>
     <span class="leancloud-visitors-count"><i class="leancloud-visitors-count"></i></span>次
-</span> -->
-<p></p>
+</span>
 <div id="vcomments"></div>
 
 <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
