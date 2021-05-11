@@ -1,6 +1,6 @@
 ---
-title: 如何免费申请 VMware Fusion 12 个人非商业用途
-date: 2020-12-02
+title: 免费申请 VMware Fusion 12
+date: 2021-05-11
 image: https://cn.bing.com/th?id=OHR.BrasovXmas_ZH-CN2333670843_UHD.jpg
 showtoc: false 
 published: false
