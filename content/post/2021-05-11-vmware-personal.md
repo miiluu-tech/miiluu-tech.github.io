@@ -5,7 +5,7 @@ image: https://cn.bing.com/th?id=OHR.BrasovXmas_ZH-CN2333670843_UHD.jpg
 showtoc: false 
 published: true
 tags: ["VMware", "虚拟机"]
-categories: [ "教程" ]
+categories: [ "软件" ]
 ---
 
 VMware Fusion 是老牌的虚拟机软件，支持 macOS、Windows、Linux 等第三方系统。
