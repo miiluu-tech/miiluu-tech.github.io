@@ -1,4 +1,4 @@
-baseurl = "https://miiluu-tech.github.io"
+baseurl = "https://miiluu.cn"
 title = "Miiluu"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
