@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tops on Miiluu</title>
-    <link>https://miiluu-tech.github.io/top/</link>
+    <link>https://miiluu.cn/top/</link>
     <description>Recent content in Tops on Miiluu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://miiluu-tech.github.io/top/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://miiluu.cn/top/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://miiluu-tech.github.io/top/about/</link>
+      <link>https://miiluu.cn/top/about/</link>
       <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://miiluu-tech.github.io/top/about/</guid>
+      <guid>https://miiluu.cn/top/about/</guid>
       <description></description>
     </item>
     
