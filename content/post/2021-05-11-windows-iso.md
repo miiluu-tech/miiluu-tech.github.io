@@ -2,10 +2,10 @@
 title: 官方原版 Windows 及 Office 的下载姿势
 date: 2021-05-11
 image: https://cn.bing.com/th?id=OHR.BrasovXmas_ZH-CN2333670843_UHD.jpg
-showtoc: false 
+showtoc: false
 published: true
-tags: ["Windows"]
-categories: [ "教程" ]
+tags: ['Windows']
+categories: ['教程']
 ---
 
 <!--more-->
@@ -22,7 +22,7 @@ categories: [ "教程" ]
 
 ### 2、选择系统
 
-![win_1](https://miiluu.oss-cn-shanghai.aliyuncs.com/blog/littleplan/win_1.png)
+![win_1](https://miiluu.oss-cn-shanghai.aliyuncs.com/blog/miiluu/win_1.png)
 
 选择你需要的系统类型即可。这里推荐的是：
 
@@ -31,8 +31,7 @@ categories: [ "教程" ]
 
 ### 3、选择 Office
 
-
-![win_2](https://miiluu.oss-cn-shanghai.aliyuncs.com/blog/littleplan/win_2.png)
+![win_2](https://miiluu.oss-cn-shanghai.aliyuncs.com/blog/miiluu/win_2.png)
 
 选择你需要的版本即可。
 
