@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>VMware on Miiluu</title>
-    <link>https://little-plan.github.io/tags/vmware/</link>
+    <link>https://miiluu-tech.github.io/tags/vmware/</link>
     <description>Recent content in VMware on Miiluu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://little-plan.github.io/tags/vmware/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://miiluu-tech.github.io/tags/vmware/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>免费申请 VMware Fusion 12</title>
-      <link>https://little-plan.github.io/post/2021-05-11-vmware-personal/</link>
+      <link>https://miiluu-tech.github.io/post/2021-05-11-vmware-personal/</link>
       <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://little-plan.github.io/post/2021-05-11-vmware-personal/</guid>
+      <guid>https://miiluu-tech.github.io/post/2021-05-11-vmware-personal/</guid>
       <description>&lt;p&gt;VMware Fusion 是老牌的虚拟机软件，支持 macOS、Windows、Linux 等第三方系统。&lt;/p&gt;</description>
     </item>
     

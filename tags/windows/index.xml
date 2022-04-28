@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Windows on Miiluu</title>
-    <link>https://little-plan.github.io/tags/windows/</link>
+    <link>https://miiluu-tech.github.io/tags/windows/</link>
     <description>Recent content in Windows on Miiluu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://little-plan.github.io/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://miiluu-tech.github.io/tags/windows/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>一款全能的下载工具</title>
-      <link>https://little-plan.github.io/post/2021-05-11-motrix/</link>
+      <title>官方原版 Windows 及 Office 的下载姿势</title>
+      <link>https://miiluu-tech.github.io/post/2021-05-11-windows-iso/</link>
       <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://little-plan.github.io/post/2021-05-11-motrix/</guid>
+      <guid>https://miiluu-tech.github.io/post/2021-05-11-windows-iso/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>官方原版 Windows 及 Office 的下载姿势</title>
-      <link>https://little-plan.github.io/post/2021-05-11-windows-iso/</link>
+      <title>一款全能的下载工具</title>
+      <link>https://miiluu-tech.github.io/post/2021-05-11-motrix/</link>
       <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://little-plan.github.io/post/2021-05-11-windows-iso/</guid>
+      <guid>https://miiluu-tech.github.io/post/2021-05-11-motrix/</guid>
       <description></description>
     </item>
     

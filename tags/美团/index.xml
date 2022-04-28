@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>美团 on Miiluu</title>
-    <link>https://little-plan.github.io/tags/%E7%BE%8E%E5%9B%A2/</link>
+    <link>https://miiluu-tech.github.io/tags/%E7%BE%8E%E5%9B%A2/</link>
     <description>Recent content in 美团 on Miiluu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://little-plan.github.io/tags/%E7%BE%8E%E5%9B%A2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://miiluu-tech.github.io/tags/%E7%BE%8E%E5%9B%A2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>美团红包</title>
-      <link>https://little-plan.github.io/post/2020-12-02-meituan/</link>
+      <link>https://miiluu-tech.github.io/post/2020-12-02-meituan/</link>
       <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://little-plan.github.io/post/2020-12-02-meituan/</guid>
+      <guid>https://miiluu-tech.github.io/post/2020-12-02-meituan/</guid>
       <description>&lt;p&gt;长按识别二维码就可以领红包了。&lt;/p&gt;</description>
     </item>
     
